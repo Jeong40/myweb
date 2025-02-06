@@ -22,7 +22,7 @@ a{
 #background-box{
   width:400px;
   height:800px;
-  background-image:url(../img/bg/main.png);
+  background-image:url(/myweb/img/bg/Starship.png);
   background-size:cover;
   position: fixed;
   top:0px;
