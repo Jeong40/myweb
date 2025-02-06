@@ -93,7 +93,6 @@ a{
 }
 .block{
   width:300px;
-  height:300px;
   border-radius:20px;
   display:flex;
   flex-direction:column;
@@ -104,7 +103,6 @@ a{
 }
 .block:hover{
   width:300px;
-  height:300px;
   border-radius:20px;
   display:flex;
   flex-direction:column;
